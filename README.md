@@ -36,7 +36,7 @@ Access your server with port `10086` ! e.g (http://your_server_ip:10086)
 **3. Install with Production Mode (Optional)**
 
 ```
-cd Wireguard-Dashboard/src
+cd src
 export FLASK_APP=dashboard.py
 export FLASK_RUN_HOST=0.0.0.0
 export FLASK_ENV=development
